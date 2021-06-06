@@ -1,0 +1,141 @@
+[2021-06-06 10:50:04.595] [renderer1] [trace] Error while resolving configuration file 'file:///e%3A/test_project/.vscode/launch.json': Unable to read file 'e:\test_project\.vscode\launch.json' (Error: Unable to resolve non-existing file 'e:\test_project\.vscode\launch.json')
+[2021-06-06 10:50:04.596] [renderer1] [trace] Error while resolving configuration file 'file:///e%3A/test_project/.vscode/tasks.json': Unable to read file 'e:\test_project\.vscode\tasks.json' (Error: Unable to resolve non-existing file 'e:\test_project\.vscode\tasks.json')
+[2021-06-06 10:50:04.608] [renderer1] [trace] [lifecycle] starting up (startup kind: 1)
+[2021-06-06 10:50:04.610] [renderer1] [trace] lifecycle: phase changed (value: 2)
+[2021-06-06 10:50:04.610] [renderer1] [trace] Renderer->SharedProcess#connect
+[2021-06-06 10:50:04.612] [renderer1] [trace] Skipping initializing user data in desktop
+[2021-06-06 10:50:04.758] [renderer1] [trace] Layout#layout, height: 1020, width: 1680
+[2021-06-06 10:50:04.818] [renderer1] [trace] workbench configuration {"_":[],"log":"trace","crash-reporter-id":"6e5a02a0-9cd7-430e-b421-d400f4dbe540","logsPath":"C:\\Users\\test\\AppData\\Roaming\\Code\\logs\\20210606T105003","appRoot":"c:\\Program Files\\Microsoft VS Code\\resources\\app","machineId":"9275dfeb739cfe21b805424917b9b3908fc6484d796a8b2e95a2d19428134359","nodeCachedDataDir":"C:\\Users\\test\\AppData\\Roaming\\Code\\CachedData\\3c4e3df9e89829dce27b7b5c24508306b151f30d","mainPid":14608,"execPath":"C:\\Program Files\\Microsoft VS Code\\Code.exe","userEnv":{"VSCODE_IPC_HOOK":"\\\\.\\pipe\\dd5ae6a06e64c500ec6e5a91d2e9bac0-1.55.2-main-sock","VSCODE_NLS_CONFIG":"{\"locale\":\"en-us\",\"availableLanguages\":{},\"_languagePackSupport\":true}","CHROME_CRASHPAD_PIPE_NAME":"\\\\.\\pipe\\crashpad_14608_RNFOOOKMZTWNLFZF"},"isInitialStartup":true,"workspace":{"id":"bf0b6805e7b870b401b8998fad8296e7","uri":{"$mid":1,"fsPath":"e:\\test_project","_sep":1,"external":"file:///e%3A/test_project","path":"/e:/test_project","scheme":"file"}},"backupPath":"C:\\Users\\test\\AppData\\Roaming\\Code\\Backups\\505a18515a7e61c01b08110b5900983b","windowId":1,"sessionId":"window:1","logLevel":0,"zoomLevel":0,"colorScheme":{"dark":false,"highContrast":false},"autoDetectHighContrast":true,"maximized":true,"perfMarks":[{"name":"code/timeOrigin","startTime":1622969403512},{"name":"code/didStartMain","startTime":1622969403599},{"name":"code/mainAppReady","startTime":1622969403682},{"name":"code/willLoadMainBundle","startTime":1622969403684},{"name":"code/fork/willLoadCode","startTime":1622969403699},{"name":"code/registerFilesystem/file","startTime":1622969403758},{"name":"code/didLoadMainBundle","startTime":1622969403760},{"name":"code/willOpenNewWindow","startTime":1622969403915}],"partsSplashPath":"C:\\Users\\test\\AppData\\Roaming\\Code\\rapid_render.json","os":{"release":"10.0.19041"}}
+[2021-06-06 10:50:04.863] [renderer1] [trace] [text file model] load() - enter file:///e:/test_project/test_project/cli.py
+[2021-06-06 10:50:05.007] [renderer1] [trace] [text file model] loadFromFile() file:///e:/test_project/test_project/cli.py
+[2021-06-06 10:50:05.061] [renderer1] [trace] [text file model] loadFromContent() - enter file:///e:/test_project/test_project/cli.py
+[2021-06-06 10:50:05.061] [renderer1] [trace] [text file model] doCreateTextModel() file:///e:/test_project/test_project/cli.py
+[2021-06-06 10:50:05.374] [renderer1] [trace] lifecycle: phase changed (value: 3)
+[2021-06-06 10:50:05.423] [renderer1] [trace] StartupGettingStarted: undefined
+[2021-06-06 10:50:05.437] [renderer1] [trace] [File Watcher (C#)] Start watching: e:\test_project
+[2021-06-06 10:50:05.656] [renderer1] [trace] Settings Sync: Initializing accounts
+[2021-06-06 10:50:05.657] [renderer1] [trace] Settings Sync: Getting accounts for microsoft
+[2021-06-06 10:50:05.831] [renderer1] [trace] Renderer->SharedProcess#connect: connection established
+[2021-06-06 10:50:05.872] [renderer1] [trace] [File Watcher (node.js)] [ADDED] c:\Users\test\AppData\Roaming\Code\logs\20210606T105003\exthost1
+[2021-06-06 10:50:05.946] [renderer1] [trace] [File Watcher (node.js)] [ADDED] c:\Users\test\AppData\Roaming\Code\logs\20210606T105003\sharedprocess.log
+[2021-06-06 10:50:05.947] [renderer1] [trace] [File Watcher (node.js)] [CHANGED] c:\Users\test\AppData\Roaming\Code\logs\20210606T105003\output_1_20210606T105004
+[2021-06-06 10:50:05.976] [renderer1] [trace] [File Watcher (node.js)] [CHANGED] c:\Users\test\AppData\Roaming\Code\logs\20210606T105003\exthost1
+[2021-06-06 10:50:06.058] [renderer1] [trace] Error while resolving configuration file 'vscode-userdata:/c%3A/Users/test/AppData/Roaming/Code/User/tasks.json': Unable to read file 'vscode-userdata:/c:/Users/test/AppData/Roaming/Code/User/tasks.json' (Error: Unable to resolve non-existing file 'vscode-userdata:/c:/Users/test/AppData/Roaming/Code/User/tasks.json')
+[2021-06-06 10:50:06.113] [renderer1] [trace] [File Watcher (node.js)] [ADDED] c:\Users\test\AppData\Roaming\Code\logs\20210606T105003\telemetry.log
+[2021-06-06 10:50:06.124] [renderer1] [trace] [File Watcher (node.js)] [CHANGED] c:\Users\test\AppData\Roaming\Code\logs\20210606T105003\telemetry.log
+[2021-06-06 10:50:06.125] [renderer1] [trace] [File Watcher (node.js)] [CHANGED] c:\Users\test\AppData\Roaming\Code\logs\20210606T105003\telemetry.log
+[2021-06-06 10:50:06.132] [renderer1] [trace] [File Watcher (node.js)] [CHANGED] c:\Users\test\AppData\Roaming\Code\logs\20210606T105003\telemetry.log
+[2021-06-06 10:50:06.138] [renderer1] [trace] terminalInstance#ctor (instanceId: 1) {}
+[2021-06-06 10:50:06.334] [renderer1] [trace] CommandService#executeCommand setContext
+[2021-06-06 10:50:06.335] [renderer1] [trace] CommandService#executeCommand setContext
+[2021-06-06 10:50:06.358] [renderer1] [trace] [File Watcher (node.js)] [CHANGED] c:\Users\test\AppData\Roaming\Code\logs\20210606T105003\telemetry.log
+[2021-06-06 10:50:06.358] [renderer1] [trace] [File Watcher (node.js)] [ADDED] c:\Users\test\AppData\Roaming\Code\logs\20210606T105003\userDataSync.log
+[2021-06-06 10:50:06.398] [renderer1] [debug] Terminal process ready (shellProcessId: 15064)
+[2021-06-06 10:50:06.532] [renderer1] [trace] MainThreadTreeViews#$registerTreeViewDataProvider cSpellRegExpView {"showCollapseAll":false,"canSelectMany":false}
+[2021-06-06 10:50:06.534] [renderer1] [trace] CommandService#executeCommand extension.js-debug.clearAutoAttachVariables
+[2021-06-06 10:50:06.541] [renderer1] [trace] RequestService#request https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery
+[2021-06-06 10:50:06.568] [renderer1] [trace] [File Watcher (node.js)] >> normalized [ADDED] c:\Users\test\AppData\Roaming\Code\logs\20210606T105003\exthost1
+[2021-06-06 10:50:06.569] [renderer1] [trace] [File Watcher (node.js)] >> normalized [ADDED] c:\Users\test\AppData\Roaming\Code\logs\20210606T105003\sharedprocess.log
+[2021-06-06 10:50:06.569] [renderer1] [trace] [File Watcher (node.js)] >> normalized [CHANGED] c:\Users\test\AppData\Roaming\Code\logs\20210606T105003\output_1_20210606T105004
+[2021-06-06 10:50:06.569] [renderer1] [trace] [File Watcher (node.js)] >> normalized [ADDED] c:\Users\test\AppData\Roaming\Code\logs\20210606T105003\telemetry.log
+[2021-06-06 10:50:06.569] [renderer1] [trace] [File Watcher (node.js)] >> normalized [ADDED] c:\Users\test\AppData\Roaming\Code\logs\20210606T105003\userDataSync.log
+[2021-06-06 10:50:06.597] [renderer1] [trace] CommandService#executeCommand setContext
+[2021-06-06 10:50:06.612] [renderer1] [trace] CommandService#executeCommand setContext
+[2021-06-06 10:50:06.612] [renderer1] [trace] CommandService#executeCommand setContext
+[2021-06-06 10:50:06.613] [renderer1] [trace] CommandService#executeCommand setContext
+[2021-06-06 10:50:06.613] [renderer1] [trace] CommandService#executeCommand setContext
+[2021-06-06 10:50:06.613] [renderer1] [trace] CommandService#executeCommand setContext
+[2021-06-06 10:50:06.614] [renderer1] [trace] CommandService#executeCommand setContext
+[2021-06-06 10:50:06.614] [renderer1] [trace] CommandService#executeCommand setContext
+[2021-06-06 10:50:06.615] [renderer1] [trace] SearchService#search {"_reason":"startFileSearch","folderQueries":[{"folder":{"$mid":1,"fsPath":"e:\\test_project","_sep":1,"external":"file:///e%3A/test_project","path":"/e:/test_project","scheme":"file"},"excludePattern":{"**/.git":true,"**/.svn":true,"**/.hg":true,"**/CVS":true,"**/.DS_Store":true},"fileEncoding":"utf8","disregardIgnoreFiles":true,"disregardGlobalIgnoreFiles":true,"ignoreSymlinks":false}],"usingSearchPaths":false,"includePattern":{"**/*.ipynb":true},"type":1}
+[2021-06-06 10:50:06.615] [renderer1] [trace] CommandService#executeCommand setContext
+[2021-06-06 10:50:06.700] [renderer1] [trace] RequestService#request https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery
+[2021-06-06 10:50:06.812] [renderer1] [trace] Settings Sync: Updated accounts for microsoft
+[2021-06-06 10:50:06.812] [renderer1] [trace] Settings Sync: Getting accounts for github
+[2021-06-06 10:50:06.869] [renderer1] [debug] SearchService#search c:\Program Files\Microsoft VS Code\resources\app\node_modules.asar.unpacked\vscode-ripgrep\bin\rg.exe --files --hidden --case-sensitive -g '**/*.ipynb' -g '!**/.git' -g '!**/.svn' -g '!**/.hg' -g '!**/CVS' -g '!**/.DS_Store' --no-ignore --follow --no-config --no-ignore-global
+ - cwd: e:\test_project
+ - Sibling clauses: {}
+[2021-06-06 10:50:06.937] [renderer1] [trace] SearchService#search: 295ms
+[2021-06-06 10:50:06.961] [renderer1] [trace] MainThreadTreeViews#$registerTreeViewDataProvider jsBrowserBreakpoints {"showCollapseAll":false,"canSelectMany":false}
+[2021-06-06 10:50:06.969] [renderer1] [trace] CommandService#executeCommand setContext
+[2021-06-06 10:50:07.058] [renderer1] [trace] Settings Sync: Updated accounts for github
+[2021-06-06 10:50:07.059] [renderer1] [trace] Settings Sync: Account status changed from uninitialized to unavailable
+[2021-06-06 10:50:07.059] [renderer1] [trace] Settings Sync: Accounts are initialized
+[2021-06-06 10:50:07.093] [renderer1] [trace] CommandService#executeCommand setContext
+[2021-06-06 10:50:07.175] [renderer1] [trace] CommandService#executeCommand setContext
+[2021-06-06 10:50:07.905] [renderer1] [trace] lifecycle: phase changed (value: 4)
+[2021-06-06 10:50:07.906] [renderer1] [trace] RequestService#request https://vscodeexperiments.azureedge.net/experiments/vscode-experiments.json
+[2021-06-06 10:50:07.947] [renderer1] [trace] {"code":"EntryNotFound","name":"EntryNotFound (FileSystemError)"}
+[2021-06-06 10:50:08.753] [renderer1] [trace] MainThreadTreeViews#$registerTreeViewDataProvider python_tests {"showCollapseAll":true,"canSelectMany":false}
+[2021-06-06 10:50:08.754] [renderer1] [trace] SearchService#search {"_reason":"startFileSearch","folderQueries":[{"folder":{"$mid":1,"fsPath":"e:\\test_project","_sep":1,"external":"file:///e%3A/test_project","path":"/e:/test_project","scheme":"file"},"excludePattern":{"**/.git":true,"**/.svn":true,"**/.hg":true,"**/CVS":true,"**/.DS_Store":true},"fileEncoding":"utf8","disregardIgnoreFiles":true,"disregardGlobalIgnoreFiles":true,"ignoreSymlinks":false}],"usingSearchPaths":false,"excludePattern":{"{**/node_modules,**/bower_components}":true},"includePattern":{"*tfevents*":true},"maxResults":1,"type":1}
+[2021-06-06 10:50:08.788] [renderer1] [debug] SearchService#search c:\Program Files\Microsoft VS Code\resources\app\node_modules.asar.unpacked\vscode-ripgrep\bin\rg.exe --files --hidden --case-sensitive -g '/*tfevents*' -g '!**/.git' -g '!**/.svn' -g '!**/.hg' -g '!**/CVS' -g '!**/.DS_Store' -g '!/{**/node_modules,**/bower_components}' --no-ignore --follow --no-config --no-ignore-global
+ - cwd: e:\test_project
+ - Sibling clauses: {}
+[2021-06-06 10:50:08.825] [renderer1] [trace] SearchService#search: 50ms
+[2021-06-06 10:50:08.875] [renderer1] [trace] SearchService#search {"_reason":"startFileSearch","folderQueries":[{"folder":{"$mid":1,"fsPath":"e:\\test_project","_sep":1,"external":"file:///e%3A/test_project","path":"/e:/test_project","scheme":"file"},"excludePattern":{"**/.git":true,"**/.svn":true,"**/.hg":true,"**/CVS":true,"**/.DS_Store":true},"fileEncoding":"utf8","disregardIgnoreFiles":true,"disregardGlobalIgnoreFiles":true,"ignoreSymlinks":false}],"usingSearchPaths":false,"excludePattern":{"{**/node_modules,**/bower_components}":true},"includePattern":{"*/*tfevents*":true},"maxResults":1,"type":1}
+[2021-06-06 10:50:08.879] [renderer1] [debug] SearchService#search c:\Program Files\Microsoft VS Code\resources\app\node_modules.asar.unpacked\vscode-ripgrep\bin\rg.exe --files --hidden --case-sensitive -g '/*/*tfevents*' -g '!**/.git' -g '!**/.svn' -g '!**/.hg' -g '!**/CVS' -g '!**/.DS_Store' -g '!/{**/node_modules,**/bower_components}' --no-ignore --follow --no-config --no-ignore-global
+ - cwd: e:\test_project
+ - Sibling clauses: {}
+[2021-06-06 10:50:08.913] [renderer1] [trace] SearchService#search: 37ms
+[2021-06-06 10:50:08.915] [renderer1] [trace] SearchService#search {"_reason":"startFileSearch","folderQueries":[{"folder":{"$mid":1,"fsPath":"e:\\test_project","_sep":1,"external":"file:///e%3A/test_project","path":"/e:/test_project","scheme":"file"},"excludePattern":{"**/.git":true,"**/.svn":true,"**/.hg":true,"**/CVS":true,"**/.DS_Store":true},"fileEncoding":"utf8","disregardIgnoreFiles":true,"disregardGlobalIgnoreFiles":true,"ignoreSymlinks":false}],"usingSearchPaths":false,"excludePattern":{"{**/node_modules,**/bower_components}":true},"includePattern":{"*/*/*tfevents*":true},"maxResults":1,"type":1}
+[2021-06-06 10:50:08.919] [renderer1] [debug] SearchService#search c:\Program Files\Microsoft VS Code\resources\app\node_modules.asar.unpacked\vscode-ripgrep\bin\rg.exe --files --hidden --case-sensitive -g '/*/*/*tfevents*' -g '!**/.git' -g '!**/.svn' -g '!**/.hg' -g '!**/CVS' -g '!**/.DS_Store' -g '!/{**/node_modules,**/bower_components}' --no-ignore --follow --no-config --no-ignore-global
+ - cwd: e:\test_project
+ - Sibling clauses: {}
+[2021-06-06 10:50:08.945] [renderer1] [trace] CommandService#executeCommand setContext
+[2021-06-06 10:50:08.948] [renderer1] [trace] SearchService#search: 33ms
+[2021-06-06 10:50:09.161] [renderer1] [trace] CommandService#executeCommand setContext
+[2021-06-06 10:50:09.720] [renderer1] [trace] CommandService#executeCommand setContext
+[2021-06-06 10:50:10.527] [renderer1] [trace] SemanticTokensProviderStyling 16 (module) / 0 (): foreground 16, fontStyle 0
+[2021-06-06 10:50:10.527] [renderer1] [trace] SemanticTokensProviderStyling [CACHED] 16 / 0: foreground 16, fontStyle 0
+[2021-06-06 10:50:10.527] [renderer1] [trace] SemanticTokensProviderStyling 16 (module) / 256 (decorator): foreground 16, fontStyle 0
+[2021-06-06 10:50:10.528] [renderer1] [trace] SemanticTokensProviderStyling 11 (function) / 256 (decorator): foreground 15, fontStyle 0
+[2021-06-06 10:50:10.528] [renderer1] [trace] SemanticTokensProviderStyling 11 (function) / 1 (declaration): foreground 15, fontStyle 0
+[2021-06-06 10:50:10.530] [renderer1] [trace] SemanticTokensProviderStyling [CACHED] 16 / 0: foreground 16, fontStyle 0
+[2021-06-06 10:50:10.531] [renderer1] [trace] SemanticTokensProviderStyling 11 (function) / 0 (): foreground 15, fontStyle 0
+[2021-06-06 10:50:10.531] [renderer1] [trace] SemanticTokensProviderStyling [CACHED] 16 / 0: foreground 16, fontStyle 0
+[2021-06-06 10:50:10.531] [renderer1] [trace] SemanticTokensProviderStyling [CACHED] 11 / 0: foreground 15, fontStyle 0
+[2021-06-06 10:50:10.532] [renderer1] [trace] SemanticTokensProviderStyling 17 (intrinsic) / 0 (): foreground 1, fontStyle 0
+[2021-06-06 10:50:10.532] [renderer1] [trace] SemanticTokensProviderStyling [CACHED] 16 / 0: foreground 16, fontStyle 0
+[2021-06-06 10:50:10.532] [renderer1] [trace] SemanticTokensProviderStyling [CACHED] 11 / 0: foreground 15, fontStyle 0
+[2021-06-06 10:50:10.532] [renderer1] [trace] SemanticTokensProviderStyling [CACHED] 11 / 0: foreground 15, fontStyle 0
+[2021-06-06 10:50:10.539] [renderer1] [trace] SemanticTokensProviderStyling 16 (module) / 0 (): foreground 16, fontStyle 0
+[2021-06-06 10:50:10.540] [renderer1] [trace] SemanticTokensProviderStyling [CACHED] 16 / 0: foreground 16, fontStyle 0
+[2021-06-06 10:50:10.540] [renderer1] [trace] SemanticTokensProviderStyling 16 (module) / 256 (decorator): foreground 16, fontStyle 0
+[2021-06-06 10:50:10.540] [renderer1] [trace] SemanticTokensProviderStyling 11 (function) / 256 (decorator): foreground 15, fontStyle 0
+[2021-06-06 10:50:10.541] [renderer1] [trace] SemanticTokensProviderStyling 11 (function) / 1 (declaration): foreground 15, fontStyle 0
+[2021-06-06 10:50:10.543] [renderer1] [trace] SemanticTokensProviderStyling [CACHED] 16 / 0: foreground 16, fontStyle 0
+[2021-06-06 10:50:10.543] [renderer1] [trace] SemanticTokensProviderStyling 11 (function) / 0 (): foreground 15, fontStyle 0
+[2021-06-06 10:50:10.543] [renderer1] [trace] SemanticTokensProviderStyling [CACHED] 16 / 0: foreground 16, fontStyle 0
+[2021-06-06 10:50:10.543] [renderer1] [trace] SemanticTokensProviderStyling [CACHED] 11 / 0: foreground 15, fontStyle 0
+[2021-06-06 10:50:10.544] [renderer1] [trace] SemanticTokensProviderStyling 17 (intrinsic) / 0 (): foreground 1, fontStyle 0
+[2021-06-06 10:50:10.544] [renderer1] [trace] SemanticTokensProviderStyling [CACHED] 16 / 0: foreground 16, fontStyle 0
+[2021-06-06 10:50:10.544] [renderer1] [trace] SemanticTokensProviderStyling [CACHED] 11 / 0: foreground 15, fontStyle 0
+[2021-06-06 10:50:10.544] [renderer1] [trace] SemanticTokensProviderStyling [CACHED] 11 / 0: foreground 15, fontStyle 0
+[2021-06-06 10:50:28.244] [renderer1] [trace] KeybindingService#dispatch Shift undefined
+[2021-06-06 10:50:28.245] [renderer1] [trace] KeybindingService#dispatch Ctrl undefined
+[2021-06-06 10:50:28.255] [renderer1] [trace] KeybindingService#dispatch Shift undefined
+[2021-06-06 10:50:28.256] [renderer1] [trace] KeybindingService#dispatch Ctrl undefined
+[2021-06-06 10:50:29.474] [renderer1] [trace] KeybindingService#dispatch Ctrl+Shift+P workbench.action.showCommands
+[2021-06-06 10:50:29.475] [renderer1] [trace] CommandService#executeCommand workbench.action.showCommands
+[2021-06-06 10:50:30.026] [renderer1] [trace] KeybindingService#dispatch Ctrl+V editor.action.clipboardPasteAction
+[2021-06-06 10:50:30.027] [renderer1] [trace] CommandService#executeCommand editor.action.clipboardPasteAction
+[2021-06-06 10:50:30.040] [renderer1] [trace] Command 'editor.action.clipboardPasteAction' was handled by 'generic-dom'.
+[2021-06-06 10:50:32.159] [renderer1] [trace] CommandService#executeCommand workbench.action.openLogFile
+[2021-06-06 10:50:32.411] [renderer1] [trace] CommandService#executeCommand setContext
+[2021-06-06 10:50:37.027] [renderer1] [trace] KeybindingService#dispatch Shift undefined
+[2021-06-06 10:50:37.030] [renderer1] [trace] KeybindingService#dispatch Ctrl undefined
+[2021-06-06 10:50:37.047] [renderer1] [trace] KeybindingService#dispatch Shift undefined
+[2021-06-06 10:50:37.049] [renderer1] [trace] KeybindingService#dispatch Ctrl undefined
+[2021-06-06 10:50:37.877] [renderer1] [trace] CommandService#executeCommand setContext
+[2021-06-06 10:50:37.877] [renderer1] [trace] CommandService#executeCommand setContext
+[2021-06-06 10:50:37.878] [renderer1] [trace] CommandService#executeCommand setContext
+[2021-06-06 10:50:37.977] [renderer1] [trace] CommandService#executeCommand setContext
+[2021-06-06 10:50:55.645] [renderer1] [trace] KeybindingService#dispatch Shift undefined
+[2021-06-06 10:50:55.646] [renderer1] [trace] KeybindingService#dispatch Ctrl undefined
+[2021-06-06 10:50:55.655] [renderer1] [trace] KeybindingService#dispatch Shift undefined
+[2021-06-06 10:50:55.656] [renderer1] [trace] KeybindingService#dispatch Ctrl undefined
+[2021-06-06 10:51:30.865] [renderer1] [trace] KeybindingService#dispatch PageDown cursorPageDown
+[2021-06-06 10:51:30.866] [renderer1] [trace] CommandService#executeCommand cursorPageDown
+[2021-06-06 10:51:32.785] [renderer1] [trace] KeybindingService#dispatch PageDown cursorPageDown
+[2021-06-06 10:51:32.786] [renderer1] [trace] CommandService#executeCommand cursorPageDown
+[2021-06-06 10:52:43.423] [renderer1] [trace] CommandService#executeCommand workbench.action.files.saveAs
